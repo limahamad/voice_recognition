@@ -1,0 +1,12 @@
+Training requirements 
+1. assesment before trainig ---> check the conditions    done
+2. say name , id   done
+3. show smth to read      done
+4. save voice ?!          done
+5. done training         done
+6. push to cloud   
+
+usage
+7.
+
+
